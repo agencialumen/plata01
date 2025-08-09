@@ -2,8 +2,8 @@
 export const imageConfig = {
   // Foto de perfil da Isabella
   profile: {
-    avatar: "https://i.imgur.com/placeholder-avatar.jpg", // Substitua pelo link da foto de perfil
-    alt: "Isabella Lua",
+    avatar: "https://iili.io/FL0PRWJ.jpg", // Substitua pelo link da foto de perfil
+    alt: "Kayane Santos",
   },
 
   // Imagens de preview do conteúdo (3 imagens)
